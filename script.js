@@ -29,9 +29,9 @@ ctx.fillStyle = "#ffffff"
 ctx.fillRect(305, 140, 100, 50)
 ctx.fillStyle = "#ffffff"
 ctx.fillRect(255, 180, 300, 20)
-ctx.fillStyle = "#f1f1f1"
+ctx.fillStyle = "#ffffff"
 ctx.fillRect(325, 160, 100, 40)
-ctx.fillStyle = "#e1d6d6"
+ctx.fillStyle = "#ffffff"
 ctx.fillRect(275, 160, 30, 40)
 ctx.fillStyle = "#ffffff"
 ctx.fillRect(350, 130, 30, 60)
